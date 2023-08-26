@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martina Vangelova</h1>
+<h1 align="center">Hi 🙋🏻‍♀️ , I'm Martina Vangelova</h1>
 <h3 align="center">Newbie Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47zg94pouqvnqjm3tkrtjhxzbygm2sy3ojqjrswgc2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
