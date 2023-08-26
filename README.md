@@ -2,11 +2,10 @@
 <h3 align="center">Newbie Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47zg94pouqvnqjm3tkrtjhxzbygm2sy3ojqjrswgc2&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martina-vangelova-391b58207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martina-vangelova-391b58207" height="30" width="40" /></a>
-<a align= "left" href="mailto:mvangelova96@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="30" width="40"></a>  
+<a href="mailto:mvangelova96@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="30" width="40"></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
